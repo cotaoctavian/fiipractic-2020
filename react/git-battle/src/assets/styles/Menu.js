@@ -3,17 +3,24 @@ import styled from 'styled-components';
 export const MenuStyle = styled.main`
     background: white;
     color: black;
-    position: absolute;
+    position: fixed;
     left: 10%;
-    width: 100%;
+    width: 70%;
     height: 83.5%;
     border-left: 1px solid black;
     font-family: 'Poppins', sans-serif;
-    
-    & span {
-        position: absolute;
-        top: 5%;
-        left: 35.6%;
-        font-size: 25px;
+
+    & button {
+        background-color: white;
+        border: 2px solid #f5e7e6;
+        border-radius: 25px;
+        outline: none;
+        width: 12%;
+        color: black;
+        padding: 10px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        margin-left: 52%;
+        margin-top: 10%;
     }
 `;

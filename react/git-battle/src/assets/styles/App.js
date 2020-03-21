@@ -3,7 +3,6 @@ import styled, { createGlobalStyle } from 'styled-components';
 export const Global = createGlobalStyle`
     body {
         margin: 0;
-        overflow: hidden;
         background: rgb(150,165,203);
         background: linear-gradient(90deg, rgba(150,165,203,1) 0%, rgba(235,169,165,1) 46%, rgba(152,170,221,1) 100%);
     }
