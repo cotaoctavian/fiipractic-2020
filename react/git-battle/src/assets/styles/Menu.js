@@ -20,7 +20,15 @@ export const MenuStyle = styled.main`
         padding: 10px;
         font-family: 'Poppins', sans-serif;
         font-size: 16px;
-        margin-left: 52%;
+        margin-left: 44%;
         margin-top: 10%;
     }
+`;
+
+export const BattleDiv = styled.div`
+    color: black;
+    display: grid;
+    text-align: center;
+    margin-left: 16%;
+    margin-top: 10%;
 `;
