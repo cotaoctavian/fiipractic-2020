@@ -20,7 +20,7 @@ export const MenuStyle = styled.main`
         padding: 10px;
         font-family: 'Poppins', sans-serif;
         font-size: 16px;
-        margin-left: 44%;
+        margin-left: 45%;
         margin-top: 10%;
     }
 `;
