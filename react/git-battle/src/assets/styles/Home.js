@@ -13,7 +13,7 @@ export const HomeContainer = styled.div`
         width: 10%;
         margin: auto;
         border: 2px solid black;
-        border-radius: 5px;
+        border-radius: 10px;
         padding: 10px;
         background-color: #f5e7e6;
         font-weight: bold;
