@@ -1,14 +1,14 @@
 import styled from 'styled-components';
 
 export const FooterStyle = styled.footer`
-    background: #f5e7e6;;
+    background: #f5e7e6;
     color: black;
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 8%;
     font-family: 'Poppins', sans-serif;
-    border-top: 1px solid black;
+    border-top: 2px solid black;
 
     & div {
         display: flex;

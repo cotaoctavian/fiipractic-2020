@@ -9,11 +9,11 @@ export const HeaderStyle = styled.header`
     padding-top: 1.5%;
     padding-bottom: 1.5%;
     font-family: 'Poppins', sans-serif;
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
     font-family: 'Poppins', sans-serif;
  
     & span {
-        margin-left: 46%;
+        margin-left: 46.3%;
         font-size: 30px;
         font-weight: bold;
     }

@@ -4,8 +4,6 @@ const initialState = {
 }
 
 const userReducers = (state = initialState, action) => {
-    console.log(action)
-    console.log(state);
     switch(action.type) {
         case 'ADD_USER':
             const newState = {...state};
